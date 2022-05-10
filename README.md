@@ -3,6 +3,7 @@
 
 <h2>Dashboard</h2><br/>
 <h3>Tournament Dashboard which will display the list of tournament and enable the loading of ongoing tournament and creation of new tournament</h3><br/>
+
 ![image](https://user-images.githubusercontent.com/58217794/167633885-7efa630c-5d38-4714-af50-961a73ecd13a.png)
 
 <h2>Create New Tournament</h2><br/>
