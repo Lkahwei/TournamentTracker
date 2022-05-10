@@ -1,12 +1,12 @@
 # TournamentTracker
-Tournament Tracker which will auto arrange the tournaments for different teams entered and assign the winner<br />
+<h1>Tournament Tracker which will auto arrange the tournaments for different teams entered and assign the winner</h1><br />
 
-<h2>Dashboard</h2>
-#####Tournament Dashboard which will display the list of tournament and enable the loading of ongoing tournament and creation of new tournament<br />
+<h2>Dashboard</h2><br/>
+<h3>Tournament Dashboard which will display the list of tournament and enable the loading of ongoing tournament and creation of new tournament</h3><br/>
 ![image](https://user-images.githubusercontent.com/58217794/167633885-7efa630c-5d38-4714-af50-961a73ecd13a.png)
 
-##Create New Tournament
-#####This form that enable the creation of new tournament and it will be displayed in the tournament dashboard afterwards<br />
+<h2>Create New Tournament</h2><br/>
+<h3>This form that enable the creation of new tournament and it will be displayed in the tournament dashboard afterwards</h3><br/>
 ![image](https://user-images.githubusercontent.com/58217794/167634219-091cc56c-d7d9-4521-ab14-ec0e1b4c7c6c.png)
 
 ##Tournament Viewer
