@@ -1,6 +1,13 @@
 # TournamentTracker
 <h1>Tournament Tracker which will auto arrange the tournaments for different teams entered and assign the winner</h1><br />
 
+<h3>There are two data storing method which are MicroSoft SQL and also in the text file</h3><br/>
+<h4>Text File</h4>
+![image](https://user-images.githubusercontent.com/58217794/167637721-3e541db3-d19e-4ab2-857f-04c2dc95dd93.png)
+
+<h4>MSSQL</h4>
+![image](https://user-images.githubusercontent.com/58217794/167638006-806ea198-a0b9-4ae9-81c8-8bd37414207f.png)
+
 <h2>Dashboard</h2><br/>
 <h3>Tournament Dashboard which will display the list of tournament and enable the loading of ongoing tournament and creation of new tournament</h3><br/>
 
@@ -11,13 +18,13 @@
 
 ![image](https://user-images.githubusercontent.com/58217794/167634219-091cc56c-d7d9-4521-ab14-ec0e1b4c7c6c.png)
 
-<h2>Tournament Viewer</h2><br/>
-<h3>This form enable the user to view the tournament, the numbers of total rounds for this tournament will be depending on number of teams entered.</h3><br/>
-<h4>1.If the total number of team entered is >8 and <= 16, the numbers of round will be 4, if the number of team entered is >4 and <=8, the numbers of round will be 3 and so on.</h4><br/>
-<h4>2.The numbers of round is depending on the multiplication of two from the previous value (which is 2,4,8,16).</h4><br/>
+<h2>Tournament Viewer</h2>
+<h3>This form enable the user to view the tournament, the numbers of total rounds for this tournament will be depending on number of teams entered.</h3>
+<h4>1.If the total number of team entered is >8 and <= 16, the numbers of round will be 4, if the number of team entered is >4 and <=8, the numbers of round will be 3 and so on.</h4>
+<h4>2.The numbers of round is depending on the multiplication of two from the previous value (which is 2,4,8,16).</h4>
 <h4>3.If there is insufficient team entered, there will be bias to satisfy the number of teams should be entered as stated above which means this team is automatically convert to the winner and proceed to the next round (only in the first round)</h4><br/>
-<h4>4.The teams that are versus against each other is highly randomized and also the bias will be assigned randomly.</h4><br/>
-<h4>5.The user can enter the score that each team obtained, the team with higher score is considered as the winner</h4><br/>
+<h4>4.The teams that are versus against each other is highly randomized and also the bias will be assigned randomly.</h4>
+<h4>5.The user can enter the score that each team obtained, the team with higher score is considered as the winner</h4>
 
 ![image](https://user-images.githubusercontent.com/58217794/167634354-d13a35f8-4a36-4ce1-926a-4dde0765b59a.png)
 <h4>6. If there round has yet to be played, the user can click the checkbox (Unplayed only) to check the match that has yet to play</h4><br/>
